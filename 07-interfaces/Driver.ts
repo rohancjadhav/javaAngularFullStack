@@ -13,5 +13,6 @@ theCoaches.push(myGolfCoach);
 for (const coach of theCoaches) {
     
     console.log(coach.getDailyWorkout());
+    console.log(coach.getDailyFeedback());
 }
 

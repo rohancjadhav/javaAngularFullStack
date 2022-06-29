@@ -9,6 +9,8 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
   title = 'this is my first app';
-  subtitle= 'this is new components title';
- 
+
+  firstName='rohan';
+  lastName='asha';
+  newName='c jadhav'
 }
